@@ -1,5 +1,8 @@
 ## Hi there 👋
+B. Sc. at FHNW in AI & HPC
 
+not that interested in programming
+but want to use the superpowers of it
 <!--
 **sultant02/sultant02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
